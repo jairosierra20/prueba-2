@@ -34,6 +34,7 @@ int opcion = 0;
 }while(opcion!=5);
 }
 int menu(){
+	//hola
 	while(true){
   	//cout<<"MENU"<<endl;
   	//mostrar tres opciones
